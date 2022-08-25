@@ -1,2 +1,1 @@
-# lancerhacks
-This is the NFT website for the lancerhacks competition. 
+# nishkasharma21.github.io
